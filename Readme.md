@@ -64,5 +64,5 @@ Password: `123`
 ```
 References: [rfc6749](https://datatracker.ietf.org/doc/html/rfc6749)
 ## Screenshots
-![LoginPage](resources\screenshots\LoginPage.png)
-![HomePage](resources\screenshots\HomePage.png)
+![LoginPage](resources/screenshots/LoginPage.png)
+![HomePage](resources/screenshots/HomePage.png)
