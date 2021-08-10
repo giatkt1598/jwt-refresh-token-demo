@@ -1,0 +1,52 @@
+﻿<#@ template language="C#" hostspecific="true"#>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System" #>
+<#@ import namespace="System.IO" #>
+<#@ output extension=".cs" #>
+
+<#
+foreach (string item in GetCsvFileNames()) {
+#>
+/////////////////////////////////////////////////////////////////
+//
+//              AUTO-GENERATED
+//
+/////////////////////////////////////////////////////////////////
+using DataService.BaseConnect;
+using DataService.Models.Entities;
+using Microsoft.EntityFrameworkCore;
+
+namespace DataService.Repositories
+{
+    public partial interface I<#= item #>Repository : IBaseRepository<<#= item #>>
+    {
+    }
+    public partial class <#= item #>Repository : BaseRepository<<#= item #>>, I<#= item #>Repository
+    {
+         public <#= item #>Repository(BaseDbContext dbContext) : base(dbContext)
+         {
+         }
+    }
+}
+
+<#
+  // End of file.
+  SaveOutput(item.ToString() + "RepositoryGen.cs");
+}
+#>
+<#+
+private void SaveOutput(string outputFileName) {
+  string templateDirectory = Path.GetDirectoryName(Host.TemplateFile);
+  string outputFilePath = Path.Combine(templateDirectory, outputFileName);
+  File.WriteAllText(outputFilePath, this.GenerationEnvironment.ToString()); 
+  this.GenerationEnvironment.Remove(0, this.GenerationEnvironment.Length);
+}
+private IEnumerable<string> GetCsvFileNames()
+    {
+        var path = Host.ResolvePath("..\\..\\Models\\Entities");
+        return Directory.GetFiles(path, "*.cs").Select(s => new FileInfo(s).Name.Replace(".cs","")).Where(w => !w.Contains("Context"));        
+    }
+#>

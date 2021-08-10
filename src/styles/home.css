@@ -1,0 +1,11 @@
+.sound-title {
+    color: blue;
+    font-weight: 700;
+}
+.sound-author {
+    font-size: .9em;
+}
+
+.sound-item div:not(:last-child) {
+    margin-right: 8px;
+}

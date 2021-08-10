@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>relax-app</name>
+    </assembly>
+    <members>
+        <member name="M:relax_app.Controllers.UsersController.GetMyProfile">
+            <summary>
+                Get my profile
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

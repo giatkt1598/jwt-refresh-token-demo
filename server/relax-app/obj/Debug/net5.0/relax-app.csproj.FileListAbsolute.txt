@@ -1,0 +1,229 @@
+D:\repository\csharp\relax-app\bin\Debug\net5.0\appsettings.Development.json
+D:\repository\csharp\relax-app\bin\Debug\net5.0\appsettings.json
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.exe
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.deps.json
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.json
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.dev.json
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\ref\relax-app.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.pdb
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.csproj.AssemblyReference.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfoInputs.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfo.cs
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.csproj.CoreCompileInputs.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cs
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.Manifest.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.xml
+D:\repository\csharp\relax-app\obj\Debug\net5.0\scopedcss\bundle\relax-app.styles.css
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.RazorTargetAssemblyInfo.cache
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.csproj.CopyComplete
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.dll
+D:\repository\csharp\relax-app\obj\Debug\net5.0\ref\relax-app.dll
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.pdb
+D:\repository\csharp\relax-app\obj\Debug\net5.0\relax-app.genruntimeconfig.cache
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\NLog.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\relax-app.xml
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Humanizer.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\DataService.dll
+D:\repository\csharp\relax-app\bin\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.csproj.AssemblyReference.cache
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.AssemblyInfoInputs.cache
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.AssemblyInfo.cs
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.csproj.CoreCompileInputs.cache
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cs
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cache
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.dll
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\ref\relax-app.dll
+D:\repository\reactjs\New folder\server\obj\Debug\net5.0\relax-app.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\appsettings.Development.json
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\appsettings.json
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.exe
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.deps.json
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.json
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.dev.json
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\ref\relax-app.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\relax-app.xml
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Humanizer.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\NLog.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\DataService.dll
+D:\repository\reactjs\New folder\server\relax-app\bin\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.csproj.AssemblyReference.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfoInputs.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfo.cs
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.csproj.CoreCompileInputs.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cs
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.Manifest.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.xml
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\scopedcss\bundle\relax-app.styles.css
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.RazorTargetAssemblyInfo.cache
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.csproj.CopyComplete
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.dll
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\ref\relax-app.dll
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.pdb
+D:\repository\reactjs\New folder\server\relax-app\obj\Debug\net5.0\relax-app.genruntimeconfig.cache
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\appsettings.Development.json
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\appsettings.json
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.exe
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.deps.json
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.json
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.runtimeconfig.dev.json
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\ref\relax-app.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.pdb
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\relax-app.xml
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Humanizer.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\NLog.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\DataService.dll
+D:\repository\reactjs\relax-app\server\relax-app\bin\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.csproj.AssemblyReference.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfoInputs.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.AssemblyInfo.cs
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.csproj.CoreCompileInputs.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cs
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.MvcApplicationPartsAssemblyInfo.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.Manifest.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\staticwebassets\relax-app.StaticWebAssets.xml
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\scopedcss\bundle\relax-app.styles.css
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.RazorTargetAssemblyInfo.cache
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.csproj.CopyComplete
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.dll
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\ref\relax-app.dll
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.pdb
+D:\repository\reactjs\relax-app\server\relax-app\obj\Debug\net5.0\relax-app.genruntimeconfig.cache

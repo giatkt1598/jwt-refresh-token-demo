@@ -1,0 +1,45 @@
+D:\repository\csharp\DataService\bin\Debug\net5.0\DataService.deps.json
+D:\repository\csharp\DataService\bin\Debug\net5.0\DataService.runtimeconfig.json
+D:\repository\csharp\DataService\bin\Debug\net5.0\DataService.runtimeconfig.dev.json
+D:\repository\csharp\DataService\bin\Debug\net5.0\DataService.dll
+D:\repository\csharp\DataService\bin\Debug\net5.0\ref\DataService.dll
+D:\repository\csharp\DataService\bin\Debug\net5.0\DataService.pdb
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.csproj.AssemblyReference.cache
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.AssemblyInfoInputs.cache
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.AssemblyInfo.cs
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.csproj.CoreCompileInputs.cache
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.dll
+D:\repository\csharp\DataService\obj\Debug\net5.0\ref\DataService.dll
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.pdb
+D:\repository\csharp\DataService\obj\Debug\net5.0\DataService.genruntimeconfig.cache
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\DataService.deps.json
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\DataService.runtimeconfig.json
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\DataService.runtimeconfig.dev.json
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\DataService.dll
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\ref\DataService.dll
+D:\repository\reactjs\New folder\server\DataService\bin\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.csproj.AssemblyReference.cache
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.AssemblyInfoInputs.cache
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.AssemblyInfo.cs
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.csproj.CoreCompileInputs.cache
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.dll
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\ref\DataService.dll
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\New folder\server\DataService\obj\Debug\net5.0\DataService.genruntimeconfig.cache
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\DataService.deps.json
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\DataService.runtimeconfig.json
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\DataService.runtimeconfig.dev.json
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\DataService.dll
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\ref\DataService.dll
+D:\repository\reactjs\relax-app\server\DataService\bin\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.csproj.AssemblyReference.cache
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.AssemblyInfoInputs.cache
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.AssemblyInfo.cs
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.csproj.CoreCompileInputs.cache
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.dll
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\ref\DataService.dll
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.pdb
+D:\repository\reactjs\relax-app\server\DataService\obj\Debug\net5.0\DataService.genruntimeconfig.cache

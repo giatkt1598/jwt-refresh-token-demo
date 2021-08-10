@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relax-app", "relax-app.csproj", "{C40059C5-5329-465C-A60C-DFCA68EC9A14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDFBFFB1-48C6-4804-93E7-BF515FDEDAC3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "..\DataService\DataService.csproj", "{02D8175F-26D0-4279-8610-B7ECAD477392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40059C5-5329-465C-A60C-DFCA68EC9A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40059C5-5329-465C-A60C-DFCA68EC9A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40059C5-5329-465C-A60C-DFCA68EC9A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40059C5-5329-465C-A60C-DFCA68EC9A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D8175F-26D0-4279-8610-B7ECAD477392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D8175F-26D0-4279-8610-B7ECAD477392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D8175F-26D0-4279-8610-B7ECAD477392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D8175F-26D0-4279-8610-B7ECAD477392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F5BE79-20B9-447B-A4F0-A4DE8C87831D}
+	EndGlobalSection
+EndGlobal
